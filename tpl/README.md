@@ -4,7 +4,7 @@
 
 ❌ Help Site
 
-✅ [Downloads](dwn.md "Terminal + Downloads")
+✅ [Downloads](dwn "Terminal + Downloads")
 
 [✅ Github Repo](https://github.com/GloriousGlider8/TerminalPlus "Github Repo for: Terminal +")
 

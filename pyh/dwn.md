@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# [PyHost](README.md "Back") Downloads
+# [PyHost](http://gloriousglider8.github.io/pyh "Back") Downloads
 
 | Date       | Status    | Version                                                                                                                   |
 | ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------- |

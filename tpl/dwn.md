@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# [Terminal +](README.md "Back") Downloads
+# [Terminal +](http://gloriousglider8.github.io/pyh "Back") Downloads
 
 | Date       | Status     | Version                                                                                                                             |
 | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
