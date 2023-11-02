@@ -4,7 +4,7 @@
 
 ❌ Help Site
 
-✅ [Downloads](dwn "Terminal + Downloads")
+✅ [Downloads](http://gloriousglider8.github.io/tpl/dwn "Terminal + Downloads")
 
 [✅ Github Repo](https://github.com/GloriousGlider8/TerminalPlus "Github Repo for: Terminal +")
 
