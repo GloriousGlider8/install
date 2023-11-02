@@ -1,9 +1,9 @@
-# Page Explorer
+# Our Apps
 
-**Installers**
 Terminal +
+
+> Terminal, with extras
+
 PyHost
 
-**Help**
-Terminal +
-PyHost
+> Host anything wthout the need for money.
