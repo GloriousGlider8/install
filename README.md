@@ -1,9 +1,9 @@
 # Our Apps
 
-Terminal +
+[Terminal +](tpl "Terminal + Pages")
 
 > Terminal, with extras
 
-PyHost
+[PyHost](pyh "PyHost Pages")
 
 > Host anything wthout the need for money.
