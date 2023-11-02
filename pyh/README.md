@@ -4,6 +4,9 @@
 
 ❌ Help Site
 
-❌ Downloads
+✅ [Downloads](dwn "PyHost Downloads")
 
 [✅ Github Repo](https://github.com/GloriousGlider8/PyHost "Github Repo for: PyHost")
+
+
+◀️ [Back](https://gloriousglider8.github.io "Back")
