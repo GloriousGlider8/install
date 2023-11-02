@@ -4,7 +4,7 @@
 
 ❌ Help Site
 
-✅ [Downloads](dwn "PyHost Downloads")
+✅ [Downloads](http://gloriousglider8.github.io/pyh/dwn "PyHost Downloads")
 
 [✅ Github Repo](https://github.com/GloriousGlider8/PyHost "Github Repo for: PyHost")
 
