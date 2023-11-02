@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # [PyHost](README.md "Back") Downloads
 
 | Date       | Status    | Version                                                                                                                   |

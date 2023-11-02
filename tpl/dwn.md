@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # [Terminal +](README.md "Back") Downloads
 
 | Date       | Status     | Version                                                                                                                             |
