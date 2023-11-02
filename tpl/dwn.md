@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# [Terminal +](http://gloriousglider8.github.io/pyh "Back") Downloads
+# [Terminal +](http://gloriousglider8.github.io/tpl "Back") Downloads
 
 | Date       | Status     | Version                                                                                                                             |
 | ---------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
