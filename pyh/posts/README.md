@@ -4,4 +4,4 @@
 
 **Categories**
 
-![Info](http://gloriousglider8.github.io/res/info/icon.png "Info")
+![Info](http://gloriousglider8.github.io/res/info/64.png "Info")
