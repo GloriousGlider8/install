@@ -1,9 +1,3 @@
-# Our Apps
+# Welcome
 
-[Terminal +](tpl "Terminal + Pages")
-
-> Terminal, with extras
-
-[PyHost](pyh "PyHost Pages")
-
-> Host anything wthout the need for money.
+> 🚧 This site is under development and may undergo drastic changes. Please check on
